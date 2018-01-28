@@ -1,0 +1,17 @@
+Route, Module, Component
+
+思维脑图
+
+组件树生成器：github.com/manekinekko/angular2-dependencies-graph
+
+
+UI Librarys for Angular 2:
+ng2-bootstrap (stable)
+PrimeNG
+Angular-Material2  (beta)
+Ionic
+
+github.com/ng2-admin
+
+Example:
+Nicefish
